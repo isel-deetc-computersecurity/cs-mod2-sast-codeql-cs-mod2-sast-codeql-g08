@@ -15,7 +15,7 @@ on:
       languages:
         description: 'Languages to analyze (comma-separated)'
         required: true
-        default: 'javascript,typescript, java'
+        default: 'Javascript,Typescript, Java'
       environment:
         description: 'Environment for CodeQL Analysis'
         required: true
